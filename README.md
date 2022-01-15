@@ -1,3 +1,4 @@
 # CS5691_Rating_Prediction
 
-Explaination of Code at:
+The problem statement can be found at: [Link](https://www.kaggle.com/c/prml-data-contest-jan-2021)
+Explaination of Code at: [Code Report](Code Report.pdf)
